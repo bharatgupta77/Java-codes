@@ -1,0 +1,17 @@
+
+<taglib>
+
+
+<tlib-version>1.0</tlib-version>
+<jsp-version>2.0</jsp-version>
+
+<tag>
+
+<name>hello</name>
+<tag-class>com.hsbc.customtagclass.MyClass</tag-class>
+<attribute>
+<name>data</name>
+</attribute>
+</tag>
+
+</taglib>
